@@ -1,5 +1,7 @@
 ## 視窗串流小幫手 Chrome 2 RTMP Streaming
 
+![DEMO](./demo.gif)
+
 視窗串流小幫手可以幫您將網頁分頁、電腦螢幕一次串流至多個直播來源，透過視窗串流小幫手，您可以一次將會議畫面同步直播到 Youtube, Facebook 等多個串流。
 
 這份程式碼是一個基於 Node.js 和 WebSocket 的串流伺服器，可以畫面透過 FFmpeg 輸出到多個 RTMP 伺服器。以下是使用說明和配置步驟：
